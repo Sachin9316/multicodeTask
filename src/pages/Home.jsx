@@ -1,6 +1,5 @@
-import React from 'react'
-import Header from '../components/Header'
-import HeroSection from '../components/HeroSection'
+import Header from '../components/Header';
+import HeroSection from '../components/HeroSection';
 
 const Home = () => {
   return (
@@ -8,7 +7,7 @@ const Home = () => {
       <Header />
       <HeroSection />
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
